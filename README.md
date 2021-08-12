@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moonliightt
-- 👀 I’m interested in scripting
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning Pawn Scripting language
 
 <!---
