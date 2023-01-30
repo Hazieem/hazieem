@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hazieem
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Pawn, C++ and Javascript Scripting language
+- 🌱 I’m currently learning Pawn, C++ and Javascript.
 
 ![Discord Shield](https://discord.c99.nl/widget/theme-3/557900655084437504.png)
 <!---
